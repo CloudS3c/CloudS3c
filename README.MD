@@ -8,8 +8,7 @@
 </p>
 <p align="center">
     <tr>
-        <img src="http://github-readme-stats-vert-five-83.vercel.app/api?username=CloudS3c&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&enable_animations=true&rank_icon=percentile" />
-        <img src="http://github-readme-stats-vert-five-83.vercel.app/api/wakatime?username=CloudS3c&theme=tokyonight&langs_count=8&enable_animations=true" />
+        <img src="http://github-readme-stats-etc8to9l7-cl0ud-s3c-s-projects.vercel.app/api/wakatime?username=CloudS3c&theme=tokyonight&langs_count=8&enable_animations=true" />
     </tr>
 </p>
 </a>
